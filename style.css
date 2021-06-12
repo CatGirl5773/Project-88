@@ -1,0 +1,28 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    width: 200px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+h3 {
+    display: inline-block;
+}
+
+#display_data {
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+#myCanvas {
+    background-color: white;
+    border-style: ridge;
+    border-color: peachpuff;
+    border-width: 10px;
+}
